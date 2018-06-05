@@ -1,0 +1,66 @@
+body {
+	background-color: pink;
+	background-repeat: repeat-y;
+	font-family: montserrat;
+	height: 100%;
+}
+
+.topnav {
+	overflow: hidden;
+	text-align: right;
+	margin-top: 50px;
+	word-spacing: 130px;
+	margin-bottom: 50px;
+}
+
+.topnav a {
+	color: white;
+	text-decoration: none;	
+	padding: 8px 16px;
+	font-family: montserrat;
+	font-size: 25px;	
+}
+
+.topnav a:hover {
+	background-color: grey;
+}
+
+.topnav a.active {
+	color: Black;
+}
+
+.box {
+	width: max;
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 2px;
+}
+
+.h1{
+	color: White;
+	text-align: center;
+}
+
+
+.ptag {
+	text-align: center;
+	font-size: 40px;
+	color: white;
+	padding-top: 110px;
+	padding-left: 550px;
+	
+}
+
+.contact {
+	padding: 0px 110px;
+}
+
+.email {
+color: white;
+padding: 0px 70px;
+}
+
+.heading2{
+	color: White;
+	text-align: right;
+}
